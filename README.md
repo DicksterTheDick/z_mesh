@@ -40,7 +40,7 @@ sudo apt install git -y
 First, **clone the repository** from GitHub to your local machine:
 
 ```
-git clone [https://github.com/DicksterTheDick/z-mesh.git](https://github.com/YOUR_USERNAME/z-mesh.git)
+git clone https://github.com/DicksterTheDick/z_mesh.git
 
 ```
 
